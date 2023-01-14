@@ -1,16 +1,23 @@
-# daily_blog
 
-A new Flutter project.
+## Daily Blog
+This a daily blog app where we can post blog and there are profile page
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+- Blog View
+- Profile View
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+You can run this app by Android Studio Emulator AND Visual stdio.
+ - Start VS Code.
+ - Type “install”, and select Extensions: Install Extensions.Type “flutter” in the extensions search field, select Flutter in the list, and click Install. This also installs the required Dart plugin.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After that press F5 on your keyboard to run main.dart, select the virtual device you installed and you are good to go.
+
+
+Download and install the Android Studio.
+
+- Setup android virtual device.
+
+- un main.dart on emulator.
