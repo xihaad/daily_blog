@@ -20,4 +20,4 @@ Download and install the Android Studio.
 
 - Setup android virtual device.
 
-- un main.dart on emulator.
+- run main.dart on emulator.
